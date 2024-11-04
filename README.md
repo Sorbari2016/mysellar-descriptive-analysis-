@@ -14,7 +14,7 @@
 - Data Analysis & Visualisation in Power BI.
 
 ## Dataset
-<a href = "https://docs.google.com/spreadsheets/d/1McblEMqis1e4SewjVeDXn2qNp_8-FGFJ/edit?usp=sharing&ouid=116957374274900170269&rtpof=true&sd=true"> mysellar_sales data  </a>
+<a href = "https://docs.google.com/spreadsheets/d/1McblEMqis1e4SewjVeDXn2qNp_8-FGFJ/edit?usp=sharing&ouid=116957374274900170269&rtpof=true&sd=true"> Mysellar Sales Dataset  </a>
 
 ## Key Data Analysis Questions 
 
