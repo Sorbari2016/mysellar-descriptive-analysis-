@@ -20,9 +20,14 @@
 <a href ="https://docs.google.com/spreadsheets/d/1eaFqmQmrK7XJ15gnvEd59dS2561EYXx2/edit?usp=sharing&ouid=108333177535340528633&rtpof=true&sd=true"> View Questions & Answers Here </a>
 ## Dashboard 
 ### Sales Page 
+![Sales](https://github.com/Sorbari2016/mysellar-descriptive-analysis-/blob/main/assets/Sales%20page.png)
 
 ### Other Metrics Page 
+![Other Metrics](https://github.com/Sorbari2016/mysellar-descriptive-analysis-/blob/main/assets/Other%20Metrics%20page.png)
 
 ## Recommendations 
 Overall, sales has been declining over the years, and this is reflected in the decline in profits as well.
 However, the sales for Europe, is gradually increasing. It would be more lucrative to focus more on the European market.
+
+## Download 
+<a href = "https://github.com/Sorbari2016/mysellar-descriptive-analysis-/blob/main/assets/Mysellar%20sales%20report.pbix"> Download the Report file </a>
