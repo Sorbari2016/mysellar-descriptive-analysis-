@@ -17,7 +17,7 @@
 <a href = "https://docs.google.com/spreadsheets/d/1McblEMqis1e4SewjVeDXn2qNp_8-FGFJ/edit?usp=sharing&ouid=116957374274900170269&rtpof=true&sd=true"> Mysellar Sales Dataset  </a>
 
 ## Key Data Analysis Questions 
-
+<a href ="https://docs.google.com/spreadsheets/d/1eaFqmQmrK7XJ15gnvEd59dS2561EYXx2/edit?usp=sharing&ouid=108333177535340528633&rtpof=true&sd=true"> View Questions & Answers Here </a>
 ## Dashboard 
 
 ## Recommendations 
