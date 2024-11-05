@@ -19,5 +19,10 @@
 ## Key Data Analysis Questions 
 <a href ="https://docs.google.com/spreadsheets/d/1eaFqmQmrK7XJ15gnvEd59dS2561EYXx2/edit?usp=sharing&ouid=108333177535340528633&rtpof=true&sd=true"> View Questions & Answers Here </a>
 ## Dashboard 
+### Sales Page 
+
+### Other Metrics Page 
 
 ## Recommendations 
+Overall, sales has been declining over the years, and this is reflected in the decline in profits as well.
+However, the sales for Europe, is gradually increasing. It would be more lucrative to focus more on the European market.
